@@ -24,6 +24,29 @@ div.container{
     background-color: bisque;
 }
 
-.container p{
-    
+.pgh{
+    color: rgb(236, 51, 41);
+    padding: 20px;
 }
+#id_pgh{
+    margin: 20px;
+}
+
+div.container{
+ border: 1px solid black;   
+}
+
+div p{
+    border: 10px solid black;
+} 
+
+.container #id_pgh {
+    font-size: larger;
+
+}
+.container #item1{
+    font-size: larger;
+}
+
+
+
